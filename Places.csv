@@ -1,0 +1,86 @@
+id,name,category,nearest_airport,distance_from_airport,entry_fees,age_restriction,specializations,type
+1,Mysore Palace,Sightseeing,Kempegowda International Airport,184.0,70.0,None,"Historical palace, architecture",Historical
+2,Coorg,Adventure,Mangalore International Airport,160.0,0.0,None,"Trekking, Coffee Plantations",Natural Beauty
+3,Marina Beach,Sightseeing,Chennai International Airport,16.0,0.0,None,"Beach, Sunrise",Beach
+4,Mysore Palace,Sightseeing,Kempegowda International Airport,184.0,70.0,None,"Historical palace, architecture",Historical
+5,Coorg,Adventure,Mangalore International Airport,160.0,0.0,None,"Trekking, Coffee Plantations",Natural Beauty
+6,Marina Beach,Sightseeing,Chennai International Airport,16.0,0.0,None,"Beach, Sunrise",Beach
+7,Mysore Palace,Sightseeing,Kempegowda International Airport,184.0,70.0,None,"Historical palace, architecture",Historical
+8,Coorg,Adventure,Mangalore International Airport,160.0,0.0,None,"Trekking, Coffee Plantations",Natural Beauty
+9,Marina Beach,Sightseeing,Chennai International Airport,16.0,0.0,None,"Beach, Sunrise",Beach
+10,Mysore Palace,Sightseeing,Kempegowda International Airport,184.0,70.0,None,"Historical palace, architecture",Historical
+11,Coorg,Adventure,Mangalore International Airport,160.0,0.0,None,"Trekking, Coffee Plantations",Natural Beauty
+12,Marina Beach,Sightseeing,Chennai International Airport,16.0,0.0,None,"Beach, Sunrise",Beach
+13,Mysore Palace,Sightseeing,Kempegowda International Airport,184.0,70.0,None,"Historical palace, architecture",Historical
+14,Coorg,Adventure,Mangalore International Airport,160.0,0.0,None,"Trekking, Coffee Plantations",Natural Beauty
+15,Marina Beach,Sightseeing,Chennai International Airport,16.0,0.0,None,"Beach, Sunrise",Beach
+16,Mysore Palace,Sightseeing,Kempegowda International Airport,184.0,70.0,None,"Historical palace, architecture",Historical
+17,Coorg,Adventure,Mangalore International Airport,160.0,0.0,None,"Trekking, Coffee Plantations",Natural Beauty
+18,Marina Beach,Sightseeing,Chennai International Airport,16.0,0.0,None,"Beach, Sunrise",Beach
+19,Mysore Palace,Sightseeing,Kempegowda International Airport,184.0,70.0,None,"Historical palace, architecture",Historical
+20,Coorg,Adventure,Mangalore International Airport,160.0,0.0,None,"Trekking, Coffee Plantations",Natural Beauty
+21,Marina Beach,Sightseeing,Chennai International Airport,16.0,0.0,None,"Beach, Sunrise",Beach
+22,Mysore Palace,Sightseeing,Kempegowda International Airport,184.0,70.0,None,"Historical palace, architecture",Historical
+23,Coorg,Adventure,Mangalore International Airport,160.0,0.0,None,"Trekking, Coffee Plantations",Natural Beauty
+24,Marina Beach,Sightseeing,Chennai International Airport,16.0,0.0,None,"Beach, Sunrise",Beach
+25,Mysore Palace,Sightseeing,Kempegowda International Airport,184.0,70.0,None,"Historical palace, architecture",Historical
+26,Coorg,Adventure,Mangalore International Airport,160.0,0.0,None,"Trekking, Coffee Plantations",Natural Beauty
+27,Marina Beach,Sightseeing,Chennai International Airport,16.0,0.0,None,"Beach, Sunrise",Beach
+28,Mysore Palace,Sightseeing,Kempegowda International Airport,184.0,70.0,None,"Historical palace, architecture",Historical
+29,Coorg,Adventure,Mangalore International Airport,160.0,0.0,None,"Trekking, Coffee Plantations",Natural Beauty
+30,Marina Beach,Sightseeing,Chennai International Airport,16.0,0.0,None,"Beach, Sunrise",Beach
+31,Mysore Palace,Sightseeing,Kempegowda International Airport,184.0,70.0,None,"Historical palace, architecture",Historical
+32,Coorg,Adventure,Mangalore International Airport,160.0,0.0,None,"Trekking, Coffee Plantations",Natural Beauty
+33,Marina Beach,Sightseeing,Chennai International Airport,16.0,0.0,None,"Beach, Sunrise",Beach
+34,Mysore Palace,Sightseeing,Kempegowda International Airport,184.0,70.0,None,"Historical palace, architecture",Historical
+35,Coorg,Adventure,Mangalore International Airport,160.0,0.0,None,"Trekking, Coffee Plantations",Natural Beauty
+36,Marina Beach,Sightseeing,Chennai International Airport,16.0,0.0,None,"Beach, Sunrise",Beach
+37,Mysore Palace,Sightseeing,Kempegowda International Airport,184.0,70.0,None,"Historical palace, architecture",Historical
+38,Coorg,Adventure,Mangalore International Airport,160.0,0.0,None,"Trekking, Coffee Plantations",Natural Beauty
+39,Marina Beach,Sightseeing,Chennai International Airport,16.0,0.0,None,"Beach, Sunrise",Beach
+40,Ramoji Film City,Entertainment,Rajiv Gandhi International Airport,37.0,1000.0,None,"Film sets, Amusement park",Theme Park
+41,Meenakshi Temple,Sightseeing,Madurai International Airport,10.0,50.0,None,"Temple, Architecture",Religious
+42,Ooty,Adventure,Coimbatore International Airport,88.0,0.0,None,"HillStation, Tea Gardens",Natural Beauty
+43,Backwaters,Sightseeing,Cochin International Airport,54.0,0.0,None,"Houseboats, Waterways",Natural Beauty
+44,Hampi,Sightseeing,Hubli Airport,144.0,40.0,None,"Ancient Ruins, Temples",Historical
+45,Kanyakumari,Sightseeing,Trivandrum International Airport,93.0,10.0,None,"Sunrise, Sunset",Natural Beauty
+46,Alleppey,Adventure,Cochin International Airport,82.0,0.0,None,"Backwaters, Houseboats",Natural Beauty
+47,Munnar,Adventure,Cochin International Airport,110.0,0.0,None,"TeaGardens, Trekking",Natural Beauty
+48,Rameswaram,Sightseeing,Madurai International Airport,163.0,50.0,None,"Temple, Bridge",Religious
+49,Kabini,Adventure,Kempegowda International Airport,214.0,0.0,None,"Wildlife Safari, River",Wildlife
+50,Mahabalipuram,Sightseeing,Chennai International Airport,55.0,40.0,None,"Shore Temple, Architecture",Historical
+51,Varkala Beach,Sightseeing,Trivandrum International Airport,42.0,0.0,None,"Beach, Cliff",Beach
+52,Periyar Wildlife Sanctuary,Adventure,Cochin International Airport,190.0,40.0,None,"Wildlife Safari, Boating",Wildlife
+53,Kodaikanal,Adventure,Madurai International Airport,120.0,0.0,None,"HillStation, Lake",Natural Beauty
+54,Chikmagalur,Adventure,Mangalore International Airport,151.0,0.0,None,"Coffee Plantations, Trekking",Natural Beauty
+55,Pondicherry,Sightseeing,Chennai International Airport,135.0,0.0,None,"French Colony, Beaches",Beach
+56,Bandipur National Park,Adventure,Kempegowda International Airport,220.0,300.0,12+,"Wildlife Safari, Tigers",Wildlife
+57,Gokarna,Adventure,Goa International Airport,140.0,0.0,None,"Beaches, Temples",Beach
+58,Hogenakkal Falls,Sightseeing,Kempegowda International Airport,180.0,10.0,None,"Waterfalls, Boating",Natural Beauty
+59,Yercaud,Adventure,Salem Airport,38.0,0.0,None,"Hill Station, Lake",Natural Beauty
+60,Wayanad,Adventure,Calicut International Airport,90.0,0.0,None,"Trekking, Waterfalls",Natural Beauty
+61,Nandi Hills,Sightseeing,Kempegowda International Airport,42.0,5.0,None,"Sunrise, Hills",Natural Beauty
+62,Bekal Fort,Sightseeing,Mangalore International Airport,60.0,5.0,None,"Fort, Beach",Historical
+63,Shivanasamudra Falls,Sightseeing,Kempegowda International Airport,130.0,5.0,None,"Waterfalls, River",Natural Beauty
+64,Jog Falls,Sightseeing,Hubli Airport,134.0,10.0,None,"Waterfalls, Scenic Views",Natural Beauty
+65,Madurai,Sightseeing,Madurai International Airport,12.0,0.0,None,"Temples, Architecture",Religious
+66,Hassan,Adventure,Kempegowda International Airport,182.0,10.0,None,"Temples, Trekking",Historical
+67,Chennai,Sightseeing,Chennai International Airport,12.0,0.0,None,"CityLife, Beaches",Urban
+68,Belur and Halebidu,Sightseeing,Mangalore International Airport,170.0,20.0,None,"Temples, Sculptures",Historical
+69,Coonoor,Adventure,Coimbatore International Airport,70.0,0.0,None,"TeaGardens, Trekking",Natural Beauty
+70,Varkala,Sightseeing,Trivandrum International Airport,44.0,0.0,None,"Beach, Temple",Beach
+71,Horsley Hills,Adventure,Bengaluru International Airport,160.0,0.0,None,"HillStation, Trekking",Natural Beauty
+72,Pamban Bridge,Sightseeing,Madurai International Airport,169.0,0.0,None,"Bridge, Scenic Views",Historical
+73,Trivandrum,Sightseeing,Trivandrum International Airport,5.0,0.0,None,"Temples, Museums",Urban
+74,Kumarakom,Sightseeing,Cochin International Airport,78.0,0.0,None,"Backwaters, Bird Sanctuary",Natural Beauty
+75,Kollam,Sightseeing,Trivandrum International Airport,70.0,0.0,None,"Backwaters, Beaches",Natural Beauty
+76,Silent Valley National Park,Adventure,Coimbatore International Airport,130.0,50.0,None,"Wildlife, Trekking",Wildlife
+77,Vellore Fort,Sightseeing,Chennai International Airport,130.0,5.0,None,"Fort, Architecture",Historical
+78,Agumbe,Adventure,Mangalore International Airport,96.0,0.0,None,"Rainforest, Trekking",Natural Beauty
+79,Yelagiri,Adventure,Bengaluru International Airport,145.0,0.0,None,"HillStation, Adventure Sports",Natural Beauty
+80,Araku Valley,Adventure,Visakhapatnam Airport,120.0,10.0,None,"Coffee Plantations, Trekking",Natural Beauty
+81,Srirangapatna,Sightseeing,Mysore Airport,14.0,5.0,None,"Temples, River",Historical
+82,Kalpetta,Adventure,Calicut International Airport,90.0,0.0,None,"Trekking, Waterfalls",Natural Beauty
+83,Chettinad,Sightseeing,Madurai International Airport,90.0,20.0,None,"Mansions, Cuisine",Cultural
+84,Auroville,Sightseeing,Chennai International Airport,140.0,0.0,None,"Community, Meditation",Cultural
+85,Bhadrachalam,Sightseeing,Rajahmundry Airport,185.0,10.0,None,"Temple, River",Religious

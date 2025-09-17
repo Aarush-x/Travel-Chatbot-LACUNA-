@@ -1,0 +1,74 @@
+place_id,name,nearest_airport,cost,facilities,phone,rating
+1,Royal Orchid Metropole,Kempegowda International Airport,120.00,"Wi-Fi, Pool, Restaurant",1234567890,4.50
+2,Taj Madikeri Resort & Spa,Mangalore International Airport,200.00,"Wi-Fi, Spa, Restaurant",0987654321,4.70
+4,Royal Orchid Metropole,Kempegowda International Airport,120.00,"Wi-Fi, Pool, Restaurant",1234567890,4.50
+5,Taj Madikeri Resort & Spa,Mangalore International Airport,200.00,"Wi-Fi, Spa, Restaurant",0987654321,4.70
+7,Royal Orchid Metropole,Kempegowda International Airport,120.00,"Wi-Fi, Pool, Restaurant",1234567890,4.50
+8,Taj Madikeri Resort & Spa,Mangalore International Airport,200.00,"Wi-Fi, Spa, Restaurant",0987654321,4.70
+10,Royal Orchid Metropole,Kempegowda International Airport,120.00,"Wi-Fi, Pool, Restaurant",1234567890,4.50
+11,Taj Madikeri Resort & Spa,Mangalore International Airport,200.00,"Wi-Fi, Spa, Restaurant",0987654321,4.70
+13,Royal Orchid Metropole,Kempegowda International Airport,120.00,"Wi-Fi, Pool, Restaurant",1234567890,4.50
+14,Taj Madikeri Resort & Spa,Mangalore International Airport,200.00,"Wi-Fi, Spa, Restaurant",0987654321,4.70
+16,Royal Orchid Metropole,Kempegowda International Airport,120.00,"Wi-Fi, Pool, Restaurant",1234567890,4.50
+17,Taj Madikeri Resort & Spa,Mangalore International Airport,200.00,"Wi-Fi, Spa, Restaurant",0987654321,4.70
+19,Royal Orchid Metropole,Kempegowda International Airport,120.00,"Wi-Fi, Pool, Restaurant",1234567890,4.50
+20,Taj Madikeri Resort & Spa,Mangalore International Airport,200.00,"Wi-Fi, Spa, Restaurant",0987654321,4.70
+22,Royal Orchid Metropole,Kempegowda International Airport,120.00,"Wi-Fi, Pool, Restaurant",1234567890,4.50
+23,Taj Madikeri Resort & Spa,Mangalore International Airport,200.00,"Wi-Fi, Spa, Restaurant",0987654321,4.70
+25,Royal Orchid Metropole,Kempegowda International Airport,120.00,"Wi-Fi, Pool, Restaurant",1234567890,4.50
+26,Taj Madikeri Resort & Spa,Mangalore International Airport,200.00,"Wi-Fi, Spa, Restaurant",0987654321,4.70
+28,Royal Orchid Metropole,Kempegowda International Airport,120.00,"Wi-Fi, Pool, Restaurant",1234567890,4.50
+29,Taj Madikeri Resort & Spa,Mangalore International Airport,200.00,"Wi-Fi, Spa, Restaurant",0987654321,4.70
+31,Royal Orchid Metropole,Kempegowda International Airport,120.00,"Wi-Fi, Pool, Restaurant",1234567890,4.50
+32,Taj Madikeri Resort & Spa,Mangalore International Airport,200.00,"Wi-Fi, Spa, Restaurant",0987654321,4.70
+34,Royal Orchid Metropole,Kempegowda International Airport,120.00,"Wi-Fi, Pool, Restaurant",1234567890,4.50
+35,Taj Madikeri Resort & Spa,Mangalore International Airport,200.00,"Wi-Fi, Spa, Restaurant",0987654321,4.70
+37,Royal Orchid Metropole,Kempegowda International Airport,120.00,"Wi-Fi, Pool, Restaurant",1234567890,4.50
+38,Taj Madikeri Resort & Spa,Mangalore International Airport,200.00,"Wi-Fi, Spa, Restaurant",0987654321,4.70
+39,Radisson Blu Resort,Chennai International Airport,150.00,"Beachfront, Pool, Gym",1122334455,4.60
+40,Dolphin Hotels,Rajiv Gandhi International Airport,100.00,"Wi-Fi, Parking, Gym",5566778899,4.30
+41,The Gateway Hotel Pasumalai,Madurai International Airport,80.00,"Pool, Restaurant, Wi-Fi",6677889900,4.40
+42,Savoy Hotel,Coimbatore International Airport,90.00,"Tea Gardens, Restaurant, Wi-Fi",7788990011,4.20
+43,Coconut Lagoon,Cochin International Airport,175.00,"Houseboats, Wi-Fi, Spa",8899001122,4.80
+44,Evolve Back,Hubli Airport,250.00,"Spa, Restaurant, Wi-Fi",9900112233,4.90
+45,Sparsa Resort,Trivandrum International Airport,110.00,"Sunrise View, Pool, Restaurant",1122445566,4.50
+46,Lake Palace Resort,Cochin International Airport,180.00,"Houseboats, Wi-Fi, Spa",2233445566,4.70
+47,SpiceTree Munnar,Cochin International Airport,190.00,"Tea Gardens, Spa, Wi-Fi",3344556677,4.60
+48,Daiwik Hotels,Madurai International Airport,85.00,"Temple View, Restaurant, Wi-Fi",4455667788,4.30
+49,Kabini River Lodge,Kempegowda International Airport,95.00,"Wildlife Safari, Wi-Fi",5566778899,4.70
+50,Radisson Blu Resort Temple Bay,Chennai International Airport,140.00,"Shore Temple View, Wi-Fi, Pool",6677889900,4.60
+51,Varkala Marine Palace,Trivandrum International Airport,60.00,"Cliffside, Wi-Fi, Restaurant",7788990011,4.40
+52,Spice Village,Cochin International Airport,200.00,"Wildlife Safari, Wi-Fi, Pool",8899001122,4.80
+53,Kodai Resort Hotel,Madurai International Airport,130.00,"Hill Station, Wi-Fi, Restaurant",9900112233,4.50
+54,The Serai Chikmagalur,Mangalore International Airport,210.00,"Coffee Plantations, Wi-Fi, Spa",1122334455,4.70
+55,Le Pondy Resort,Chennai International Airport,180.00,"Beachfront, Wi-Fi, Restaurant",2233445566,4.50
+56,The Windflower Resort & Spa,Kempegowda International Airport,120.00,"Wildlife Safari, Wi-Fi, Restaurant",3344556677,4.40
+57,Namaste Café,Goa International Airport,65.00,"Beachfront, Wi-Fi, Restaurant",4455667788,4.30
+58,Hogenakkal Resort,Kempegowda International Airport,75.00,"Waterfall View, Wi-Fi, Restaurant",5566778899,4.20
+59,Grand Palace Hotel & Spa,Salem Airport,105.00,"Hill Station, Wi-Fi, Restaurant",6677889900,4.50
+60,Vythiri Resort,Calicut International Airport,180.00,"Trekking, Wi-Fi, Spa",7788990011,4.70
+61,Mount Palazzo,Kempegowda International Airport,90.00,"Sunrise View, Wi-Fi, Restaurant",8899001122,4.40
+62,Vivanta by Taj Bekal,Mangalore International Airport,160.00,"Beachfront, Wi-Fi, Restaurant",9900112233,4.60
+63,Shivanasamudra Lodge,Kempegowda International Airport,50.00,"Waterfall View, Restaurant",1122334455,4.10
+64,Sharavathi Adventure Camp,Hubli Airport,75.00,"Waterfalls, Wi-Fi, Restaurant",2233445566,4.30
+65,Heritage Madurai,Madurai International Airport,95.00,"Temples, Wi-Fi, Restaurant",3344556677,4.60
+66,Hassan Ashok Hotel,Kempegowda International Airport,85.00,"Temples, Wi-Fi, Restaurant",4455667788,4.40
+67,Taj Connemara,Chennai International Airport,160.00,"City Life, Wi-Fi, Pool",5566778899,4.60
+68,Hoysala Village Resort,Mangalore International Airport,170.00,"Temples, Wi-Fi, Spa",6677889900,4.70
+69,Kurumba Village Resort,Coimbatore International Airport,120.00,"Tea Gardens, Wi-Fi, Restaurant",7788990011,4.60
+70,The Gateway Hotel Varkala,Trivandrum International Airport,90.00,"Beach, Wi-Fi, Restaurant",8899001122,4.50
+71,Horsley Hills Haritha Resort,Bengaluru International Airport,60.00,"Hill Station, Wi-Fi, Restaurant",9900112233,4.20
+72,Sangam Hotel,Madurai International Airport,80.00,"Bridge View, Wi-Fi, Restaurant",1122334455,4.30
+73,Hilton Garden Inn,Trivandrum International Airport,150.00,"Temples, Wi-Fi, Restaurant",2233445566,4.60
+74,Kumarakom Lake Resort,Cochin International Airport,250.00,"Backwaters, Wi-Fi, Pool",3344556677,4.80
+75,The Raviz Ashtamudi,Trivandrum International Airport,140.00,"Backwaters, Wi-Fi, Spa",4455667788,4.70
+76,Silent Valley Rainforest Retreat,Coimbatore International Airport,190.00,"Wildlife, Wi-Fi, Spa",5566778899,4.80
+77,Vellore Hotel Saravana,Chennai International Airport,60.00,"Fort View, Wi-Fi, Restaurant",6677889900,4.20
+78,Agumbe Rainforest Resort,Mangalore International Airport,85.00,"Rainforest, Wi-Fi, Trekking",7788990011,4.50
+79,Yelagiri Hills Resort,Bengaluru International Airport,100.00,"Hill Station, Wi-Fi, Restaurant",8899001122,4.30
+80,Araku Valley Resort,Visakhapatnam Airport,95.00,"Trekking, Wi-Fi, Restaurant",9900112233,4.60
+81,Srirangapatna Lodge,Mysore Airport,55.00,"Temple View, Wi-Fi, Restaurant",1122334455,4.20
+82,Green Gates Hotel,Calicut International Airport,80.00,"Waterfalls, Wi-Fi, Restaurant",2233445566,4.40
+83,Chettinad Mansion Heritage,Madurai International Airport,120.00,"Mansions, Wi-Fi, Restaurant",3344556677,4.50
+84,Auroville Guesthouse,Chennai International Airport,50.00,"Meditation, Wi-Fi, Restaurant",4455667788,4.10
+85,Hotel Bhadrachalam,Rajahmundry Airport,70.00,"Temple View, Wi-Fi, Restaurant",5566778899,4.20
