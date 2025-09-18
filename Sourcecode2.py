@@ -310,21 +310,8 @@ def build_gui():
     root.geometry("800x600")
     root.minsize(700, 500)
 
-    # Colors and fonts
-    bg_gray = "#2c2c2c"  # entry/button background (dark slate)
-    bg_color = "#222"  # chat background (dark, but not black)
-    text_color = "#e5e7eb"  # light gray text
-    entry_bg = "#f5f5f5"  # light entry background
-    entry_fg = "#222"
-    button_bg = "#4a90e2"  # blue button
-    button_fg = "#fff"
-    font = "Helvetica 14"
-    font_bold = "Helvetica 13 bold"
-
-    root.configure(bg=bg_color)
-
-    # Chat area frame (with scrollbar)
-    chat_frame = __import__("tkinter").Frame(root, bg=bg_color)
+    # Use only default system colors and layout
+    chat_frame = __import__("tkinter").Frame(root)
     chat_frame.pack(side="top", fill="both", expand=True, padx=12, pady=12)
 
     scrollbar = __import__("tkinter").Scrollbar(chat_frame)
@@ -332,10 +319,6 @@ def build_gui():
 
     txt = Text(
         chat_frame,
-        bg=bg_color,
-        fg=text_color,
-        insertbackground=text_color,
-        font=font,
         wrap=WORD,
         yscrollcommand=scrollbar.set,
         borderwidth=2,
@@ -346,15 +329,11 @@ def build_gui():
     scrollbar.config(command=txt.yview)
 
     # Bottom input area
-    input_frame = __import__("tkinter").Frame(root, bg=bg_color)
+    input_frame = __import__("tkinter").Frame(root)
     input_frame.pack(side="bottom", fill="x", padx=12, pady=(0, 12))
 
     e = Entry(
         input_frame,
-        bg=entry_bg,
-        fg=entry_fg,
-        insertbackground=entry_fg,
-        font=font,
         borderwidth=2,
         relief="groove",
         width=70
@@ -398,7 +377,7 @@ def build_gui():
                 txt.insert(END, "\nBot -> Sorry, I don't have information on that place.")
         e.delete(0, END)
 
-    send_button = Button(input_frame, text="Send", font=font_bold, bg=button_bg, fg=button_fg, command=send, borderwidth=2, relief="groove", activebackground="#357ab8", activeforeground="#fff")
+    send_button = Button(input_frame, text="Send", command=send, borderwidth=2, relief="groove")
     send_button.pack(side="right", padx=(0, 0), pady=4)
 
     # Initial greeting and UX niceties
