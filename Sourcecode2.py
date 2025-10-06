@@ -15,7 +15,5 @@ except Exception as exc:
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser()
-    parser.add_argument("--seed", choices=["short", "full"], default="short")
-    args = parser.parse_args()
-    main(args.seed)
+    # No seed CLI options anymore — the app seeds the full dataset automatically.
+    main()

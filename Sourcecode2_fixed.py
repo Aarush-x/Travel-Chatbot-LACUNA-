@@ -383,19 +383,17 @@ def build_gui():
     return root
 
 
-def main(seed_mode):
+def main():
     if not ensure_database():
         print("Cannot create/verify DB; ensure MySQL is running and credentials are set in env vars")
         return
     create_tables()
-    seed_sample_data(seed_mode)
+    # Always seed the full dataset; user no longer chooses short/full
+    seed_sample_data('full')
     root = build_gui()
     if root:
         root.mainloop()
 
 
 if __name__ == "__main__":
-    p = argparse.ArgumentParser()
-    p.add_argument("--seed", choices=["short", "full"], default="short")
-    args = p.parse_args()
-    main(args.seed)
+    main()

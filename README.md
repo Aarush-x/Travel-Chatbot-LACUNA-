@@ -81,10 +81,10 @@ export DB_PASSWORD=yourpassword
 export DB_NAME=TravelBot
 ```
 
-5) Seed the database and run the GUI (short seed):
+5) Seed the database and run the GUI (app now always seeds full dataset automatically):
 
 ```bash
-python3 Sourcecode2.py --seed short
+python3 Sourcecode2.py
 ```
 
 Notes
