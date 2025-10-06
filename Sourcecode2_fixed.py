@@ -376,6 +376,14 @@ def build_gui():
             else:
                 txt.insert(END, "\n  No hotels")
 
+        # clear the input entry after sending so user doesn't need to delete it manually
+        try:
+            e.delete(0, END)
+            # re-insert placeholder for UX consistency
+            e.insert(0, placeholder)
+        except Exception:
+            pass
+
     btn = Button(inp, text="Send", command=send)
     btn.pack(side="right")
     e.bind("<Return>", send)
