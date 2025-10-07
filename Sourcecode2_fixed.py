@@ -322,11 +322,10 @@ def build_gui():
     e = Entry(inp, width=70)
     e.pack(side="left", fill="x", expand=True, padx=(0, 8))
 
-    placeholder = "Type 'hello' or ask for a type/place"
-    e.insert(0, placeholder)
+    # No placeholder: keep the Entry empty so it never interferes with input handling
     def send(_event=None):
         user = e.get().strip()
-        if not user or user == placeholder:
+        if not user:
             return
         txt.insert(END, "\nYou -> " + user)
         txt.see(END)
@@ -381,25 +380,6 @@ def build_gui():
             e.focus_set()
         except Exception:
             pass
-
-    # UX: placeholder should disappear when the user focuses the entry and
-    # reappear only when the entry loses focus and is empty.
-    def on_focus_in(_event=None):
-        try:
-            if e.get() == placeholder:
-                e.delete(0, END)
-        except Exception:
-            pass
-
-    def on_focus_out(_event=None):
-        try:
-            if not e.get().strip():
-                e.insert(0, placeholder)
-        except Exception:
-            pass
-
-    e.bind("<FocusIn>", on_focus_in)
-    e.bind("<FocusOut>", on_focus_out)
 
     btn = Button(inp, text="Send", command=send)
     btn.pack(side="right")
